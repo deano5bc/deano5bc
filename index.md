@@ -7,4 +7,4 @@ Welcome to My Home Page
 
 - Original date - {{ date }}
 - With timeago filter - {{ date | timeago }}
-- 
+- Welcome to aldergate.ca  a service that builds, repairs, and maintains.
