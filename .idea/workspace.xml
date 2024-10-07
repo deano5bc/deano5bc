@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acfb93a4-fcf3-427a-b0d8-d041c2ef7b49" name="Changes" comment="started a dev branch, added Un-Versioned files then did an update to dev to push and test update title">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="acfb93a4-fcf3-427a-b0d8-d041c2ef7b49" name="Changes" comment="This is added new version root then try update added HOME title fix - try again.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +41,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/tech/deano5bc"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tech/deano5bc&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -144,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728331209678</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="This is added new version root then try update added HOME title fix - try again.">
+      <option name="closed" value="true" />
+      <created>1728332014719</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728332014719</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +172,7 @@
     <MESSAGE value="started a dev branch, added Un-Versioned files" />
     <MESSAGE value="started a dev branch, added Un-Versioned files then did an update to dev to push and test" />
     <MESSAGE value="started a dev branch, added Un-Versioned files then did an update to dev to push and test update title" />
-    <option name="LAST_COMMIT_MESSAGE" value="started a dev branch, added Un-Versioned files then did an update to dev to push and test update title" />
+    <MESSAGE value="This is added new version root then try update added HOME title fix - try again." />
+    <option name="LAST_COMMIT_MESSAGE" value="This is added new version root then try update added HOME title fix - try again." />
   </component>
 </project>
